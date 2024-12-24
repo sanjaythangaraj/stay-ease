@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:17.2'
+    environment:
+      - 'POSTGRES_DB=stay-ease'
+      - 'POSTGRES_PASSWORD=stay-ease'
+      - 'POSTGRES_USER=stay-ease'
+    ports:
+      - '5432:5432'
