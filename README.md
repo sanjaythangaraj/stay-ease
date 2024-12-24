@@ -8,6 +8,10 @@ Includes tests written with Mockito and MockMvc.
 ## API Documentation
 The API documentation can be viewed at the following link: [API Documentation](https://documenter.getpostman.com/view/32162797/2sAYJ4hfei)
 
+### Live Deployment
+
+[Deployment Link](https://stay-ease-production.up.railway.app/)
+
 ## Setup
 1. Clone the repository.
 2. Navigate to the `docker` folder.
